@@ -12,4 +12,4 @@ As of recently I noticed that's not a super common thing, if common at all.
 
 
 But here's the direct image that shows what I mean: 
-![Au Gratin](auGratinPotatoes.jpg)
+![Au Gratin](auGratinPoatoes.jpg)
