@@ -40,3 +40,14 @@ This is a table of 4 different restaurants or vendors that I like!
 >"I'll have what she's having." - *Meg Ryan* <br>
 >"I always cook with wine. Sometimes, I even add it to the food!" - *W.C. Fields*
 
+---
+
+# How to create a readable stream in Node.js
+Description: This code here is Node.js code that intializes a readable stream that data can be sent to!
+
+```
+const stream = require('stream');
+const readableStream = new Stream.Readable();
+const pushToStream = text => readableStream.push(text);
+```
+Here is a web link to the Code Snippet above! -> <https://code.pieces.app/collections/node-js>
