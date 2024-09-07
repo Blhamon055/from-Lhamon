@@ -36,6 +36,7 @@ This is a table of 4 different restaurants or vendors that I like!
 
 ---
 
-#Some Funny Quotes
+# Some Funny Quotes
 >"I'll have what she's having." - *Meg Ryan* <br>
 >"I always cook with wine. Sometimes, I even add it to the food!" - *W.C. Fields*
+
